@@ -1,2 +1,2 @@
 # dotinstall
-ドットインストールのメモ
+Javascriptのメモ
